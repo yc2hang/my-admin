@@ -1,4 +1,4 @@
-# my-element-admin
+# my-element-admin(vue-cli:3.2.1)
 
 ## Project setup
 ```
